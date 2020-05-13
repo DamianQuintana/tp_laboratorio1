@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1589376194 source:c:\users\demi\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"AuxEmployees.h"
+
+1589374823 source:c:\users\demi\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"AuxEmployees.h"
+
+1588959946 c:\users\demi\desktop\tp2\arrayemployees.h
+
+1589376430 c:\users\demi\desktop\tp2\auxemployees.h
+
+1589376099 source:c:\users\demi\desktop\tp2\auxemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"AuxEmployees.h"
+
+1589374823 source:c:\users\demi\desktop\tp2 -abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"AuxEmployees.h"
+
+1588959946 c:\users\demi\desktop\tp2 -abm\arrayemployees.h
+
+1589382248 c:\users\demi\desktop\tp2 -abm\auxemployees.h
+
+1589383095 source:c:\users\demi\desktop\tp2 -abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"AuxEmployees.h"
+
+1589383534 source:c:\users\demi\desktop\tp2 -abm\auxemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"AuxEmployees.h"
+
